@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=pass
+comment0.target=int\ getBits(java.lang.String)
+comment1.params=pass
+comment1.target=int\ getBitsAssumePosKnown(java.lang.String)
+comment2.params=
+comment2.target=java.util.List\ getCommonWords()
+numComments=3
