@@ -28,7 +28,6 @@ class PassEv
     //returns: array list of all the common words!
     //uses commonpasswords.txt in same directory. Default is top 100 from 
     //https://github.com/danielmiessler/SecLists/tree/master/Passwords - replace file as needed.
-    //Also, it's really funny that the 27th most common password is "pussy"...
     static List getCommonWords()
     {
         //just to compile
